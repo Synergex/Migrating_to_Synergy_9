@@ -1,0 +1,25 @@
+[Global]
+CurrentProject=MigratingToSynergy9.vpj
+[ProjectDates]
+MigratingToSynergy9.vpj=20080430230638016
+[TreeExpansion2]
+- MigratingToSynergy9.vpj
+  - Source Files
+  + Header Files
+  + Toolkit Script Files
+  - Other Files
+scroll:0
+[State]
+SCREEN: 1600 1200 115 115 1011 761 0 0 M 0 0 0 0 1342 778 0
+CWD: ..\MigratingToSynergy9
+FILEHIST: 9
+SRC\Passed.dbl
+SRC\RpsAbbreviation.dbl
+SRC\StartNopage.dbl
+SRC\StructureIndex.dbl
+SRC\SystemOverride.dbl
+SRC\TypeMismatch.dbl
+SRC\UnaryPlusAlpha.dbl
+SRC\UndeclaredOptionalParams.dbl
+SRC\VariableParameters.dbl
+TBCLASS: 0 0
